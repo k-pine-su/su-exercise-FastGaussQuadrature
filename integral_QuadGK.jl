@@ -10,3 +10,5 @@ result, err = quadgk(f, -1.0, 1.0)
 println("近似値: ", result)
 println("誤差推定: ", err)
 println("絶対誤差: ", abs(result - π/2))
+
+# これはchatGPTが書いたコードです。
