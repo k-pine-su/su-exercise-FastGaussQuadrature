@@ -2,7 +2,7 @@
 
 julia_version = "1.11.5"
 manifest_format = "2.0"
-project_hash = "0472afad46d2e788f6093fce274c5942ba078d39"
+project_hash = "c312c58d78a0426a5f7d369412612ec9ae60d862"
 
 [[deps.Artifacts]]
 uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
@@ -42,6 +42,12 @@ version = "1.11.0"
 git-tree-sha1 = "e7b7e6f178525d17c720ab9c081e4ef04429f860"
 uuid = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 version = "0.9.4"
+
+[[deps.DoubleExponentialFormulas]]
+deps = ["LinearAlgebra", "Printf"]
+git-tree-sha1 = "5a0a853bafeb3915e8a5b48a511d71838c1308c4"
+uuid = "eb426421-6452-4132-80ef-4b100a757ac5"
+version = "0.1.0"
 
 [[deps.FastGaussQuadrature]]
 deps = ["LinearAlgebra", "SpecialFunctions", "StaticArrays"]

@@ -1,1 +1,0 @@
-# su-exercise-FastGaussQuadrature
